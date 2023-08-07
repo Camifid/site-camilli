@@ -6,6 +6,7 @@
 Esse site foi criado com o intuito de praticar HTML e CSS, onde foi feito um formulário para contato sem a utilização de JS. Foi solicitado a criação de um site pessoal no período de 2022.2, na disciplina Introdução a sistemas web, na UFRRJ.
 
 ## Vídeo Explicativo
+[![Veja o video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtu.be/4HFGDLaPSws))
 https://youtu.be/4HFGDLaPSws
 
 ## Linguagens de programação e Ferramentas
